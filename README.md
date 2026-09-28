@@ -5,6 +5,9 @@ Native Android port of **Doom RPG** (Fountainhead / id Software, 2005) based on 
 This repository provides the application shell, JNI bridge, touch UI, and engine integration. **Game data files are not distributed.**
 
 ---
+## Download
+
+Latest APK: [Releases](https://github.com/CanavarIT/DoomRPG-RE-Android/releases)
 
 ## Table of contents
 
