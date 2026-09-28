@@ -1,0 +1,9 @@
+Put DoomRPG.zip and gm.sf2 in this directory (assets/).
+
+See README for detailed instructions on how to obtain these files.
+
+Steps:
+1. Create DoomRPG.zip from doomrpg.bar using BarToZip.exe
+2. Obtain gm.sf2 (SoundFont)
+3. Copy both files into this directory
+4. Rebuild and sign the APK

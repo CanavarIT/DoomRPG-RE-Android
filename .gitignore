@@ -1,0 +1,31 @@
+# Build outputs
+build/
+.gradle/
+.cxx/
+local.properties
+
+# APK / AAB — not committed, use Releases instead
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Game assets — do NOT commit (id Software copyright)
+app/src/main/assets/DoomRPG.zip
+app/src/main/assets/gm.sf2
+app/src/main/assets/*.bar
+app/src/main/assets/*.zip
+
+# Backup .so files
+app/src/main/jniLibs/**/*.old
+
+# Native build
+app/build/
+app/.cxx/
+
+# AndroidIDE cache
+.acside/
